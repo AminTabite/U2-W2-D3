@@ -1,0 +1,25 @@
+// partials/_spacing.scss
+
+// Spacing scale
+$space-small: 0.25rem;   // 4px
+$space-normal: 0.5rem;   // 8px
+$space-md: 1rem;         // 16px
+$space-lg: 1.5rem;       // 24px
+$space-xl: 2rem;         // 32px
+$space-xxl: 3rem;        // 48px
+
+// Margin utilities
+.m-small  { margin: $space-small; }
+.m-normal { margin: $space-normal; }
+.m-md     { margin: $space-md; }
+.m-lg     { margin: $space-lg; }
+.m-xl     { margin: $space-xl; }
+.m-xxl    { margin: $space-xxl; }
+
+// Padding utilities
+.p-small  { padding: $space-small; }
+.p-normal { padding: $space-normal; }
+.p-md     { padding: $space-md; }
+.p-lg     { padding: $space-lg; }
+.p-xl     { padding: $space-xl; }
+.p-xxl    { padding: $space-xxl; }
