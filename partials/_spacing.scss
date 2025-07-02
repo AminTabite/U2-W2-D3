@@ -23,3 +23,19 @@ $space-xxl: 3rem;        // 48px
 .p-lg     { padding: $space-lg; }
 .p-xl     { padding: $space-xl; }
 .p-xxl    { padding: $space-xxl; }
+
+
+body {
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+
+    
+}
+
+

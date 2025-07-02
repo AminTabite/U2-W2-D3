@@ -1,12 +1,18 @@
-blue {
-    background-color: #0e6cff;
+.btn-blue {
+  background-color: #0e6cff;
+  color: white;
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 5px;
 }
 
-
-orange {
-    background-color: #ff8700;
+.btn-orange {
+  background-color: #ff8700;
+  color: white;
+  
 }
 
-green {
-    background-color: #4caf50;
+.btn-green {
+  background-color: #4caf50;
+  color: white;
 }
